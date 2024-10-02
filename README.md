@@ -2,10 +2,10 @@
 I love to read and I believe there is a lot of value in books. This is a collection of books that I have found to be useful in work and life in no particular order.
 
 ## Currently Reading
-The Secret Pulse of Time
+The Secret Pulse of Time.
 Klein, Stefan
 
-Journey to the Heart. Daily meditations on the path to Freeing your soul
+Journey to the Heart. Daily meditations on the path to Freeing your soul.
 Beattie, Melody
 
 The Shadow of What Was Lost (The Licanius Trilogy)
