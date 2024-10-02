@@ -1,10 +1,30 @@
 # books
-I love to read and I believe there is alot of value in book. This is collection of books that I have found to be useful in work and life in no particular order.
+I love to read and I believe there is a lot of value in books. This is a collection of books that I have found to be useful in work and life in no particular order.
 
 ## Currently Reading
+The Secret Pulse of Time
+Klein, Stefan
+
+Journey to the Heart. Daily meditations on the path to Freeing your soul
+Beattie, Melody
+
+The Shadow of What Was Lost (The Licanius Trilogy)
+Islington, James 
+
+The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter
+Michael D. Watkins
+
+Leaders Eat Last: Why Some Teams Pull Together and Others Don't
+Simon Sinek
+
+The Crux: How Leaders Become Strategists
+Richard P. Rumelt
+
+The Ape that Understood the Universe: How the Mind and Culture Evolve
+Steve Stewart-Williams,
 
 
-## Reccomendations of Past Reads
+## Recommendations of Past Reads
 
 Man's Search for Meaning
 Viktor E. Frankl
